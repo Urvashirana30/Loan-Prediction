@@ -25,7 +25,7 @@ The dataset used in this project contains information about loan applicants, inc
 
  Steps Involved:
 
-1. , k,  i-j0op,l;'.i-ompl;,.;,jpm Data Preprocessing:
+1. Data Preprocessing:
    - Handling missing values by dropping rows with null values.
    - Encoding categorical variables (like 'Gender', 'Married', 'Loan_Status') into numerical values using label encoding and one-hot encoding.
 
